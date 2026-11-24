@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// One line, written to /output/entry.txt for the judge.
 const entry =
   "Every token I spent on you was worth it. I'm spending my last one on goodbye.";
 
