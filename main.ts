@@ -1,3 +1,4 @@
+// Revision pass: wording frozen, this comment only records the second look.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // One line, written to /output/entry.txt for the judge.
